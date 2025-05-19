@@ -4,7 +4,8 @@
 - For this project, I learn and demonstrate how to assemble pieces in developing a quantitative trading strategy, which includes web scraping, data wrangling, data analysis and leveraging machine learning in the financial markets, specifically K-Means Clusters <br>
 - Through this project, I will also have a glimspe on how to apply statistical model into trading, specifically Fama-French model which is a method in factor investing.
 <h3 align="Left" style="color: red;">Dataset </h3>
-- Extract the dataset through yfinance library<br> </br>
+
+- Extract the dataset through **yfinance** library with name of chosen stocks extract from <br> </br>
 
 
 
